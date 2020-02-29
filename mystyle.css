@@ -1,0 +1,41 @@
+.gg{
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+  text-align: center;
+}
+.gg {
+  position: sticky;
+  top: 0;
+  background-color: green;
+  border: 2px solid #4CAF50;
+}
+p {
+  color:blue;
+}
+.box1 {
+  float: left;
+  width: 27%;
+  padding: 50px;
+  background-color:#bbb;
+}
+.box2 {
+    float: left;
+  width: 27%;
+  padding: 50px;
+  background-color:#ccc;
+}
+.box3 {
+    float: left;
+  width: 27%;
+  padding: 50px;
+  background-color:#ddd;
+}
+.ww {
+  border: 3px solid #73AD21;
+  position: relative;
+  top:2000px;
+  left: 300px;
+  padding-top: 10px;
+}
